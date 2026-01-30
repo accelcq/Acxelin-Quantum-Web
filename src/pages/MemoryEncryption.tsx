@@ -37,7 +37,7 @@ const MemoryEncryptionFaq = () => {
         <div className="space-y-6">
           <p className="text-gray-700 leading-relaxed">
             Even if your internal cloud team is skilled, implementing memory encryption in confidential computing 
-            is rarely a simple "set-and-forget" task. AccelCQ delivers:
+            is rarely a simple "set-and-forget" task. Acxelin Quantum delivers:
           </p>
           
           <div className="space-y-4">
@@ -68,7 +68,7 @@ const MemoryEncryptionFaq = () => {
       content: (
         <div className="space-y-6">
           <p className="text-gray-700 leading-relaxed">
-            For regulated industries (healthcare, finance, biotech, etc.), compliance is a moving target. AccelCQ provides:
+            For regulated industries (healthcare, finance, biotech, etc.), compliance is a moving target. Acxelin Quantum provides:
           </p>
           
           <div className="space-y-4">
@@ -109,7 +109,7 @@ const MemoryEncryptionFaq = () => {
           <div>
               <h4 className="font-semibold text-gray-900 mb-2">Feature Evolution</h4>
             <p className="text-gray-700 leading-relaxed">
-              Even if the initial job seems "one-off," security and compliance requirements rarely stay static. AccelCQ 
+              Even if the initial job seems "one-off," security and compliance requirements rarely stay static. Acxelin Quantum 
               keeps you ahead of new cloud features (like confidential containers or next-gen TEEs) and regulatory 
               changes—future-proofing your investment.
             </p>
@@ -128,7 +128,7 @@ const MemoryEncryptionFaq = () => {
           <div>
               <h4 className="font-semibold text-gray-900 mb-2">On-Premises and Hybrid Cloud</h4>
               <p className="text-gray-700 leading-relaxed">
-              For organizations running confidential workloads in private data centers or hybrid clouds, AccelCQ 
+              For organizations running confidential workloads in private data centers or hybrid clouds, Acxelin Quantum 
               delivers the same level of expertise, integrating TEEs (Intel SGX, AMD SEV, ARM TrustZone) and memory 
               encryption solutions without relying on public cloud infrastructure.
             </p>
@@ -155,7 +155,7 @@ const MemoryEncryptionFaq = () => {
             <div>
               <h4 className="font-semibold text-gray-900 mb-2">Third-Party Validation</h4>
               <p className="text-gray-700 leading-relaxed">
-                AccelCQ provides unbiased security reviews and documentation, offering assurance for your customers, 
+                Acxelin Quantum provides unbiased security reviews and documentation, offering assurance for your customers, 
                 partners, or regulators.
               </p>
             </div>
@@ -198,13 +198,13 @@ const MemoryEncryptionFaq = () => {
   return (
     <>
       <Helmet>
-        <title>Memory Encryption FAQ | AccelCQ Inc</title>
-        <meta name="description" content="Frequently asked questions about AccelCQ's memory encryption services. Learn why AccelCQ is the right choice for your confidential computing and memory encryption needs." />
+        <title>Memory Encryption FAQ | Acxelin Quantum Inc</title>
+        <meta name="description" content="Frequently asked questions about Acxelin Quantum's memory encryption services. Learn why Acxelin Quantum is the right choice for your confidential computing and memory encryption needs." />
       </Helmet>
 
       <PageHeader 
         title="Memory Encryption FAQ"
-        subtitle="Why Choose AccelCQ for Memory Encryption?"
+        subtitle="Why Choose Acxelin Quantum for Memory Encryption?"
         backgroundImage="https://images.unsplash.com/photo-1563206767-5b18f218e8de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&h=1020&q=80"
       />
 
@@ -219,8 +219,8 @@ const MemoryEncryptionFaq = () => {
             transition={{ duration: 0.6 }}
           >
           <SectionHeading
-              title="Why Choose AccelCQ for Memory Encryption?"
-              subtitle="Even if you have a cloud team, here's why AccelCQ delivers specialized expertise for both cloud and on-premises scenarios"
+              title="Why Choose Acxelin Quantum for Memory Encryption?"
+              subtitle="Even if you have a cloud team, here's why Acxelin Quantum delivers specialized expertise for both cloud and on-premises scenarios"
             alignment="center"
           />
           </motion.div>
@@ -279,7 +279,7 @@ const MemoryEncryptionFaq = () => {
         </div>
       </section>
 
-      {/* Who Needs AccelCQ Memory Encryption Services */}
+      {/* Who Needs Acxelin Quantum Memory Encryption Services */}
       <section className="py-16 bg-gray-50">
         <div className="container-custom">
           <motion.div
@@ -290,7 +290,7 @@ const MemoryEncryptionFaq = () => {
             transition={{ duration: 0.6 }}
           >
             <SectionHeading
-              title="Who Needs AccelCQ Memory Encryption Services?"
+              title="Who Needs Acxelin Quantum Memory Encryption Services?"
               subtitle="Organizations that benefit most from our specialized memory encryption expertise"
               alignment="center"
             />
@@ -346,7 +346,7 @@ const MemoryEncryptionFaq = () => {
               Ready to Secure Your Critical Infrastructure?
             </h2>
             <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
-              Let AccelCQ's experts help you implement robust memory encryption solutions tailored to your specific needs.
+              Let Acxelin Quantum's experts help you implement robust memory encryption solutions tailored to your specific needs.
             </p>
             <motion.div 
               className="flex flex-col sm:flex-row gap-4 justify-center"

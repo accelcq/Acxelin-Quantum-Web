@@ -66,8 +66,8 @@ const ConfidentialComputing = () => {
   return (
     <>
       <Helmet>
-        <title>Confidential Computing | AccelCQ Inc</title>
-        <meta name="description" content="AccelCQ's confidential computing solutions protect your most sensitive data during processing, enabling secure computation in untrusted environments." />
+        <title>Confidential Computing | Acxelin Quantum Inc</title>
+        <meta name="description" content="Acxelin Quantum's confidential computing solutions protect your most sensitive data during processing, enabling secure computation in untrusted environments." />
       </Helmet>
 
       <PageHeader 
@@ -98,7 +98,7 @@ const ConfidentialComputing = () => {
                 While traditional security measures protect data at rest and in transit, confidential computing closes the gap by securing data during processing, ensuring complete data lifecycle protection.
               </p>
               <p className="text-gray-600 mb-6">
-                At AccelCQ, we specialize in implementing state-of-the-art confidential computing solutions tailored to your organization's specific needs and security requirements.
+                At Acxelin Quantum, we specialize in implementing state-of-the-art confidential computing solutions tailored to your organization's specific needs and security requirements.
               </p>
             </motion.div>
             

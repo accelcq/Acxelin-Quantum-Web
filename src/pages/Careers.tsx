@@ -77,12 +77,12 @@ const Careers = () => {
   return (
     <>
       <Helmet>
-        <title>Careers | AccelCQ Inc</title>
-        <meta name="description" content="Join the AccelCQ team and work on cutting-edge confidential computing and quantum computing technologies. Explore current job openings and opportunities." />
+        <title>Careers | Acxelin Quantum LLC</title>
+        <meta name="description" content="Join the Acxelin Quantum team and work on cutting-edge confidential computing and quantum computing technologies. Explore current job openings and opportunities." />
       </Helmet>
 
-      <PageHeader 
-        title="Careers at AccelCQ"
+      <PageHeader
+        title="Careers at Acxelin Quantum"
         subtitle="Join our team of experts pushing the boundaries of confidential and quantum computing"
         backgroundImage="https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       />
@@ -101,7 +101,7 @@ const Careers = () => {
             >
               <img 
                 src="https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-                alt="AccelCQ Team" 
+                alt="Acxelin Quantum Team" 
                 className="w-full h-auto" 
               />
             </motion.div>
@@ -113,9 +113,9 @@ const Careers = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.8, delay: 0.2 }}
             >
-              <h2 className="text-3xl md:text-4xl font-bold mb-6">Why Join AccelCQ</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6">Why Join Acxelin Quantum</h2>
               <p className="text-gray-600 mb-6">
-                At AccelCQ, we're building the future of secure and quantum computing. Our team consists of world-class experts from academia and industry who are passionate about solving the most challenging computational problems while maintaining the highest security standards.
+                At Acxelin Quantum, we're building the future of secure and quantum computing. Our team consists of world-class experts from academia and industry who are passionate about solving the most challenging computational problems while maintaining the highest security standards.
               </p>
               
               <div className="space-y-4 mb-8">
@@ -283,7 +283,7 @@ const Careers = () => {
             >
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Our Culture</h2>
               <p className="text-gray-600 mb-4">
-                At AccelCQ, we foster a culture of innovation, collaboration, and continuous learning. We believe that the most groundbreaking solutions come from diverse teams working together in an environment that encourages creativity and risk-taking.
+                At Acxelin Quantum, we foster a culture of innovation, collaboration, and continuous learning. We believe that the most groundbreaking solutions come from diverse teams working together in an environment that encourages creativity and risk-taking.
               </p>
               <p className="text-gray-600 mb-6">
                 Our core values of technical excellence, integrity, security-first thinking, and collaborative innovation guide everything we do, from how we develop our products to how we interact with our clients and each other.
@@ -291,7 +291,7 @@ const Careers = () => {
               
               <h3 className="text-xl font-semibold mb-3">What our team members say:</h3>
               <blockquote className="border-l-4 border-primary-500 pl-4 italic text-gray-600 mb-6">
-                "Working at AccelCQ has given me the opportunity to tackle cutting-edge challenges in quantum computing while collaborating with some of the brightest minds in the industry. The culture of continuous learning and innovation is truly energizing."
+                "Working at Acxelin Quantum has given me the opportunity to tackle cutting-edge challenges in quantum computing while collaborating with some of the brightest minds in the industry. The culture of continuous learning and innovation is truly energizing."
                 <footer className="mt-2 font-medium not-italic">
                   — Dr. Sarah Kim, Quantum Algorithm Researcher
                 </footer>

@@ -73,7 +73,7 @@ const TEEFaq = () => {
             <div>
               <h4 className="font-semibold text-gray-900 mb-2">Evolving Threats</h4>
               <p className="text-gray-700 leading-relaxed">
-                As TEE vulnerabilities and attack surfaces change, AccelCQ provides ongoing updates and proactive defenses—keeping 
+                As TEE vulnerabilities and attack surfaces change, Acxelin Quantum provides ongoing updates and proactive defenses—keeping 
                 you audit-ready and resilient.
               </p>
             </div>
@@ -131,7 +131,7 @@ const TEEFaq = () => {
             <div>
               <h4 className="font-semibold text-gray-900 mb-2">Operational Overhead</h4>
               <p className="text-gray-700 leading-relaxed">
-                Continuous patching, monitoring, and secure key management are essential and resource-intensive. AccelCQ brings 
+                Continuous patching, monitoring, and secure key management are essential and resource-intensive. Acxelin Quantum brings 
                 streamlined, automated processes and the latest TEE expertise to your in-prem cloud.
               </p>
             </div>
@@ -159,7 +159,7 @@ const TEEFaq = () => {
     }
   ];
 
-  const whyAccelCQBenefits = [
+  const whyAcxelinQuantumBenefits = [
     "Unmatched Expertise: Deep hands-on experience architecting and maintaining TEEs on Azure, AWS, Google, IBM, and on-premises.",
     "End-to-End Delivery: From design and deployment to monitoring, compliance, and upgrades.",
     "Security Assurance: Independent validation, automated attestation, and incident response.",
@@ -176,13 +176,13 @@ const TEEFaq = () => {
   return (
     <>
       <Helmet>
-        <title>Why Choose AccelCQ for Trusted Execution Environments (TEEs)? | AccelCQ Inc</title>
-        <meta name="description" content="Even if you have a cloud team, here's why AccelCQ adds value for Trusted Execution Environments. Learn about our specialized TEE expertise and services." />
+        <title>Why Choose Acxelin Quantum for Trusted Execution Environments (TEEs)? | Acxelin Quantum Inc</title>
+        <meta name="description" content="Even if you have a cloud team, here's why Acxelin Quantum adds value for Trusted Execution Environments. Learn about our specialized TEE expertise and services." />
       </Helmet>
 
       <PageHeader 
-        title="Why Choose AccelCQ for Trusted Execution Environments (TEEs)?"
-        subtitle="Even If You Have a Cloud Team—Here's Why AccelCQ Adds Value"
+        title="Why Choose Acxelin Quantum for Trusted Execution Environments (TEEs)?"
+        subtitle="Even If You Have a Cloud Team—Here's Why Acxelin Quantum Adds Value"
         backgroundImage="https://images.unsplash.com/photo-1563206767-5b18f218e8de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&h=1020&q=80"
       />
 
@@ -257,7 +257,7 @@ const TEEFaq = () => {
         </div>
       </section>
 
-      {/* Why AccelCQ Not Just Your Cloud Team */}
+      {/* Why Acxelin Quantum Not Just Your Cloud Team */}
       <section className="py-16 bg-white">
         <div className="container-custom">
           <motion.div
@@ -268,7 +268,7 @@ const TEEFaq = () => {
             transition={{ duration: 0.6 }}
           >
             <SectionHeading
-              title="Why AccelCQ—Not Just Your Cloud Team?"
+              title="Why Acxelin Quantum—Not Just Your Cloud Team?"
               subtitle="Specialized expertise that goes beyond generalist cloud teams"
               alignment="center"
             />
@@ -328,7 +328,7 @@ const TEEFaq = () => {
         </div>
       </section>
 
-      {/* Why AccelCQ Section */}
+      {/* Why Acxelin Quantum Section */}
       <section className="py-16 bg-gray-50">
         <div className="container-custom">
           <motion.div
@@ -339,7 +339,7 @@ const TEEFaq = () => {
             transition={{ duration: 0.6 }}
           >
             <SectionHeading
-              title="Why AccelCQ?"
+              title="Why Acxelin Quantum?"
               subtitle="What sets us apart in the TEE landscape"
               alignment="center"
             />
@@ -352,7 +352,7 @@ const TEEFaq = () => {
             whileInView="visible"
             viewport={{ once: true, margin: "-50px" }}
           >
-            {whyAccelCQBenefits.map((benefit, index) => (
+            {whyAcxelinQuantumBenefits.map((benefit, index) => (
               <motion.div 
                 key={index} 
                 className="bg-white p-6 rounded-xl shadow-lg"
@@ -382,8 +382,8 @@ const TEEFaq = () => {
             transition={{ duration: 0.6 }}
           >
             <SectionHeading
-              title="Summary: When to Use AccelCQ"
-              subtitle="Choose AccelCQ when you need more than basic cloud services"
+              title="Summary: When to Use Acxelin Quantum"
+              subtitle="Choose Acxelin Quantum when you need more than basic cloud services"
               alignment="center"
             />
           </motion.div>
@@ -417,7 +417,7 @@ const TEEFaq = () => {
               transition={{ duration: 0.6, delay: 0.4 }}
             >
               <p className="text-indigo-900 font-semibold">
-                With AccelCQ, TEEs deliver on their promise—real-world confidentiality, integrity, and operational peace of mind.
+                With Acxelin Quantum, TEEs deliver on their promise—real-world confidentiality, integrity, and operational peace of mind.
               </p>
             </motion.div>
           </motion.div>
@@ -438,7 +438,7 @@ const TEEFaq = () => {
               Ready to Secure Your Critical Workloads with TEEs?
             </h2>
             <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
-              Let AccelCQ's experts help you implement and manage Trusted Execution Environments across your infrastructure.
+              Let Acxelin Quantum's experts help you implement and manage Trusted Execution Environments across your infrastructure.
             </p>
             <motion.div 
               className="flex flex-col sm:flex-row gap-4 justify-center"

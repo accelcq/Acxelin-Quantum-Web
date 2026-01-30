@@ -84,7 +84,7 @@ const PrivacyPreservingComputation = () => {
         <div className="container-custom">
           <div className="max-w-4xl mx-auto text-center">
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
-              AccelCQ enables organizations to unlock the value of sensitive data—without ever compromising privacy. 
+              Acxelin Quantum enables organizations to unlock the value of sensitive data—without ever compromising privacy. 
               Using the latest advances in Privacy-Preserving Computation, we help you process, analyze, and share data 
               securely with partners, customers, or regulators, all while maintaining strict privacy guarantees.
             </p>
@@ -117,11 +117,11 @@ const PrivacyPreservingComputation = () => {
         </div>
       </section>
 
-      {/* AccelCQ's Services */}
+      {/* Acxelin Quantum's Services */}
       <section className="py-16 bg-white">
         <div className="container-custom">
           <SectionHeading
-            title="AccelCQ's Privacy-Preserving Computation Services"
+            title="Acxelin Quantum's Privacy-Preserving Computation Services"
             subtitle="Comprehensive privacy-first solutions for sensitive data processing"
             alignment="center"
           />
@@ -170,11 +170,11 @@ const PrivacyPreservingComputation = () => {
         </div>
       </section>
 
-      {/* Why Choose AccelCQ */}
+      {/* Why Choose Acxelin Quantum */}
       <section className="py-16 bg-white">
         <div className="container-custom">
           <SectionHeading
-            title="Why AccelCQ for Privacy-Preserving Computation?"
+            title="Why Acxelin Quantum for Privacy-Preserving Computation?"
             subtitle="Your trusted partner for privacy-first data solutions"
             alignment="center"
           />
@@ -198,11 +198,11 @@ const PrivacyPreservingComputation = () => {
             Transform data risk into data value.
           </h2>
           <p className="text-xl mb-8 text-primary-100 max-w-2xl mx-auto">
-            With AccelCQ's Privacy-Preserving Computation services, you can collaborate, innovate, and grow—all while 
+            With Acxelin Quantum's Privacy-Preserving Computation services, you can collaborate, innovate, and grow—all while 
             keeping your most sensitive information private and secure.
           </p>
           <p className="text-lg mb-8 text-primary-100">
-            Contact AccelCQ today to enable privacy-first analytics and AI in your organization.
+            Contact Acxelin Quantum today to enable privacy-first analytics and AI in your organization.
           </p>
           <a
             href="/contact"

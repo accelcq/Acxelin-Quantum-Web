@@ -112,8 +112,8 @@ const EnterpriseArchitecture = () => {
   return (
     <>
       <Helmet>
-        <title>Enterprise Architecture | AccelCQ Inc</title>
-        <meta name="description" content="AccelCQ's enterprise architecture solutions help organizations design, plan, and implement comprehensive architectural frameworks using TOGAF 10, Sparx EA, and custom automation." />
+        <title>Enterprise Architecture | Acxelin Quantum Inc</title>
+        <meta name="description" content="Acxelin Quantum's enterprise architecture solutions help organizations design, plan, and implement comprehensive architectural frameworks using TOGAF 10, Sparx EA, and custom automation." />
       </Helmet>
 
       <PageHeader 
@@ -295,10 +295,10 @@ const EnterpriseArchitecture = () => {
               transition={{ duration: 0.8 }}
             >
               <p className="text-gray-600 text-lg leading-relaxed">
-                AccelCQ offers comprehensive scripting solutions for Sparx Systems Enterprise Architect (EA), enabling organizations to fully automate and customize their enterprise architecture processes. Our team specializes in developing VBScripts and custom scripts to streamline the generation of architectural models, automate repetitive tasks, and seamlessly integrate EA with your existing workflows.
+                Acxelin Quantum offers comprehensive scripting solutions for Sparx Systems Enterprise Architect (EA), enabling organizations to fully automate and customize their enterprise architecture processes. Our team specializes in developing VBScripts and custom scripts to streamline the generation of architectural models, automate repetitive tasks, and seamlessly integrate EA with your existing workflows.
               </p>
               <p className="text-gray-600 text-lg leading-relaxed mt-4">
-                Whether you require automated diagram creation, batch processing, or enhanced reporting, AccelCQ empowers you to unlock the full potential of Sparx EA—ensuring accuracy, efficiency, and scalability for all your architecture initiatives.
+                Whether you require automated diagram creation, batch processing, or enhanced reporting, Acxelin Quantum empowers you to unlock the full potential of Sparx EA—ensuring accuracy, efficiency, and scalability for all your architecture initiatives.
               </p>
               
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">

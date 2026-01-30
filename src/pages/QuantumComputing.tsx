@@ -110,8 +110,8 @@ const QuantumComputing = () => {
   return (
     <>
       <Helmet>
-        <title>Quantum Computing | AccelCQ Inc</title>
-        <meta name="description" content="AccelCQ's quantum computing solutions help organizations harness the power of quantum algorithms to solve complex computational problems." />
+        <title>Quantum Computing | Acxelin Quantum Inc</title>
+        <meta name="description" content="Acxelin Quantum's quantum computing solutions help organizations harness the power of quantum algorithms to solve complex computational problems." />
       </Helmet>
 
       <PageHeader 
@@ -142,7 +142,7 @@ const QuantumComputing = () => {
                 From drug discovery to financial modeling, quantum computing is poised to revolutionize how we approach complex computational challenges across industries.
               </p>
               <p className="text-gray-600 mb-6">
-                At AccelCQ, we help organizations harness quantum computing's potential through tailored solutions and expertise in quantum algorithm development.
+                At Acxelin Quantum, we help organizations harness quantum computing's potential through tailored solutions and expertise in quantum algorithm development.
               </p>
             </motion.div>
             

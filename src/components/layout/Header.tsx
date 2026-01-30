@@ -62,9 +62,9 @@ const Header = () => {
       name: 'FAQs',
       path: '/faq',
       children: [
-        { name: 'Why AccelCQ for Memory Encryption?', path: '/faq/memory-encryption' },
-        { name: 'Why AccelCQ for Trusted Execution Environments?', path: '/faq/trusted-execution-environments' },
-        { name: 'Why AccelCQ for Quantum Algorithm Development?', path: '/faq/quantum-algorithms' },
+        { name: 'Why Acxelin Quantum for Memory Encryption?', path: '/faq/memory-encryption' },
+        { name: 'Why Acxelin Quantum for Trusted Execution Environments?', path: '/faq/trusted-execution-environments' },
+        { name: 'Why Acxelin Quantum for Quantum Algorithm Development?', path: '/faq/quantum-algorithms' },
       ],
     },
     { name: 'Contact', path: '/contact' },
@@ -79,9 +79,9 @@ const Header = () => {
       <div className="container-custom flex items-center justify-between">
         <Link to="/" className="flex items-center" onClick={closeMenu}>
         <div className={`rounded-lg p-2 ${!isScrolled ? 'bg-primary-50/30' : ''}`}>
-          <img 
-            src="/accelcq-logo.png" 
-            alt="AccelCQ LLC" 
+          <img
+            src="/acxelin-quantum-logo.png"
+            alt="Acxelin Quantum LLC" 
             className="h-10 w-auto"
           />
           </div>

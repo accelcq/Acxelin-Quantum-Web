@@ -60,8 +60,8 @@ const QuantumAlgorithmsFaq = () => {
       )
     },
     {
-      id: "why-accelcq-quantum",
-      question: "Why AccelCQ for Quantum Algorithm Development?",
+      id: "why-acxelin-quantum",
+      question: "Why Acxelin Quantum for Quantum Algorithm Development?",
       icon: <CheckCircle size={20} />,
       content: (
         <div className="space-y-4">
@@ -92,7 +92,7 @@ const QuantumAlgorithmsFaq = () => {
             <li>Improving speed and accuracy in derivative pricing and high-frequency trading.</li>
           </ul>
           <p className="text-gray-700 leading-relaxed mt-4">
-            AccelCQ designs algorithms using IBM Q, Google Quantum AI, and D-Wave for robust, regulatory-compliant finance solutions.
+            Acxelin Quantum designs algorithms using IBM Q, Google Quantum AI, and D-Wave for robust, regulatory-compliant finance solutions.
           </p>
         </div>
       )
@@ -112,7 +112,7 @@ const QuantumAlgorithmsFaq = () => {
             <li>Secure, privacy-preserving sharing of sensitive medical data.</li>
           </ul>
           <p className="text-gray-700 leading-relaxed mt-4">
-            AccelCQ leverages IBM Q, Azure Quantum, and Google for cutting-edge research and compliant clinical solutions.
+            Acxelin Quantum leverages IBM Q, Azure Quantum, and Google for cutting-edge research and compliant clinical solutions.
           </p>
         </div>
       )
@@ -132,7 +132,7 @@ const QuantumAlgorithmsFaq = () => {
             <li>Reduce costs, emissions, and improve resilience in supply chain operations.</li>
           </ul>
           <p className="text-gray-700 leading-relaxed mt-4">
-            AccelCQ deploys solutions on D-Wave, Amazon Braket, and Google Quantum AI for operational impact.
+            Acxelin Quantum deploys solutions on D-Wave, Amazon Braket, and Google Quantum AI for operational impact.
           </p>
         </div>
       )
@@ -149,7 +149,7 @@ const QuantumAlgorithmsFaq = () => {
             <li>Manufacturing process optimization and advanced robotics.</li>
           </ul>
           <p className="text-gray-700 leading-relaxed mt-4">
-            AccelCQ matches algorithms to IBM Q, Azure Quantum, and Google based on specific application needs.
+            Acxelin Quantum matches algorithms to IBM Q, Azure Quantum, and Google based on specific application needs.
           </p>
         </div>
       )
@@ -166,7 +166,7 @@ const QuantumAlgorithmsFaq = () => {
             <li>Explore fundamental quantum algorithms, cryptography, and secure communications.</li>
           </ul>
           <p className="text-gray-700 leading-relaxed mt-4">
-            AccelCQ provides platform-agnostic access and custom algorithm development for research groups and universities.
+            Acxelin Quantum provides platform-agnostic access and custom algorithm development for research groups and universities.
           </p>
         </div>
       )
@@ -176,7 +176,7 @@ const QuantumAlgorithmsFaq = () => {
   const technicalFaqQuestions = [
     {
       id: "quantum-algorithms-specialty",
-      question: "What quantum algorithms does AccelCQ specialize in?",
+      question: "What quantum algorithms does Acxelin Quantum specialize in?",
       icon: <Layers size={20} />,
       content: (
         <div className="space-y-4">
@@ -199,7 +199,7 @@ const QuantumAlgorithmsFaq = () => {
       content: (
         <div className="space-y-4">
           <p className="text-gray-700 leading-relaxed mb-3">
-            AccelCQ conducts a use-case analysis based on:
+            Acxelin Quantum conducts a use-case analysis based on:
           </p>
           <ul className="list-disc list-inside text-gray-700 space-y-2 ml-4">
             <li>Problem type (optimization, simulation, ML, cryptography)</li>
@@ -220,7 +220,7 @@ const QuantumAlgorithmsFaq = () => {
       content: (
         <div className="space-y-4">
           <p className="text-gray-700 leading-relaxed">
-            Yes! AccelCQ specializes in hybrid integration—linking quantum algorithms with your classical IT systems, cloud platforms, and data pipelines. We use API layers and middleware so your end users see minimal disruption but maximum benefit.
+            Yes! Acxelin Quantum specializes in hybrid integration—linking quantum algorithms with your classical IT systems, cloud platforms, and data pipelines. We use API layers and middleware so your end users see minimal disruption but maximum benefit.
           </p>
         </div>
       )
@@ -232,7 +232,7 @@ const QuantumAlgorithmsFaq = () => {
       content: (
         <div className="space-y-4">
           <p className="text-gray-700 leading-relaxed mb-3">
-            You do not need in-house quantum experts or hardware. AccelCQ provides:
+            You do not need in-house quantum experts or hardware. Acxelin Quantum provides:
           </p>
           <ul className="list-disc list-inside text-gray-700 space-y-2 ml-4">
             <li>All software development, integration, and user training.</li>
@@ -249,7 +249,7 @@ const QuantumAlgorithmsFaq = () => {
       content: (
         <div className="space-y-4">
           <ul className="list-disc list-inside text-gray-700 space-y-2 ml-4">
-            <li>AccelCQ ensures data is secured with end-to-end encryption, privacy-preserving algorithms, and best practices for regulated industries.</li>
+            <li>Acxelin Quantum ensures data is secured with end-to-end encryption, privacy-preserving algorithms, and best practices for regulated industries.</li>
             <li>Solutions are designed to meet industry compliance (HIPAA, GDPR, FINRA, etc.).</li>
             <li>We monitor and address emerging risks such as "quantum hacking" and ensure your infrastructure remains secure as the technology evolves.</li>
           </ul>
@@ -276,12 +276,12 @@ const QuantumAlgorithmsFaq = () => {
   return (
     <>
       <Helmet>
-        <title>Why Quantum Algorithm Development by AccelCQ? | AccelCQ Inc</title>
-        <meta name="description" content="Comprehensive FAQ about AccelCQ's quantum algorithm development services. Learn about quantum computing applications, technical implementation, and sector-specific benefits." />
+        <title>Why Quantum Algorithm Development by Acxelin Quantum? | Acxelin Quantum Inc</title>
+        <meta name="description" content="Comprehensive FAQ about Acxelin Quantum's quantum algorithm development services. Learn about quantum computing applications, technical implementation, and sector-specific benefits." />
       </Helmet>
 
       <PageHeader 
-        title="Why Quantum Algorithm Development by AccelCQ?"
+        title="Why Quantum Algorithm Development by Acxelin Quantum?"
         subtitle="Comprehensive answers to your quantum computing questions"
         backgroundImage="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&h=1020&q=80"
       />
@@ -502,7 +502,7 @@ const QuantumAlgorithmsFaq = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
-              Contact AccelCQ for a sector-specific consultation, detailed proposal, or discovery workshop. We'll assess your goals, suggest the right quantum approach, and guide your team to successful quantum adoption.
+              Contact Acxelin Quantum for a sector-specific consultation, detailed proposal, or discovery workshop. We'll assess your goals, suggest the right quantum approach, and guide your team to successful quantum adoption.
             </p>
           </motion.div>
         </div>
@@ -522,7 +522,7 @@ const QuantumAlgorithmsFaq = () => {
               Ready to Harness Quantum Algorithm Advantage?
             </h2>
             <p className="text-indigo-100 mb-8 max-w-2xl mx-auto">
-              Let AccelCQ's quantum experts help you develop and implement algorithms that solve complex problems beyond classical computing capabilities.
+              Let Acxelin Quantum's quantum experts help you develop and implement algorithms that solve complex problems beyond classical computing capabilities.
             </p>
             <motion.div 
               className="flex flex-col sm:flex-row gap-4 justify-center"

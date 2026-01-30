@@ -14,7 +14,7 @@ const CaseStudyEnterprise = () => {
   return (
     <>
       <Helmet>
-        <title>TOGAF Enterprise Architecture Case Study | AccelCQ Inc</title>
+        <title>TOGAF Enterprise Architecture Case Study | Acxelin Quantum Inc</title>
         <meta name="description" content="Explore our Financial Exchange Platform demo showcasing TOGAF enterprise architecture principles and best practices in financial services." />
       </Helmet>
 

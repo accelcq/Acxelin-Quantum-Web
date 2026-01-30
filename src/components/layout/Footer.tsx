@@ -64,9 +64,9 @@ const Footer = () => {
           <div>
             <Link to="/" className="flex items-center mb-4">
               <div className="bg-white rounded-lg p-2">
-                <img 
-                  src="/accelcq-logo.png" 
-                  alt="AccelCQ LLC" 
+                <img
+                  src="/acxelin-quantum-logo.png"
+                  alt="Acxelin Quantum LLC" 
                   className="h-8 w-auto"
                 />
               </div>
@@ -87,8 +87,8 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail size={18} className="text-gray-500" />
-                <a href="mailto:info@accelcq.com" className="hover:text-primary-400 transition-colors">
-                  info@accelcq.com
+                <a href="mailto:info@acxelinquantum.com" className="hover:text-primary-400 transition-colors">
+                  info@acxelinquantum.com
                 </a>
               </div>
             </address>
@@ -286,7 +286,7 @@ const Footer = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            &copy; {currentYear} AccelCQ LLC. All rights reserved.
+            &copy; {currentYear} Acxelin Quantum LLC. All rights reserved.
           </p>
           <div className="flex space-x-6">
             <Link to="/privacy" className="text-gray-500 hover:text-primary-400 text-sm transition-colors">

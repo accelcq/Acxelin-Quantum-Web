@@ -7,7 +7,7 @@ const NotFound = () => {
   return (
     <>
       <Helmet>
-        <title>Page Not Found | AccelCQ Inc</title>
+        <title>Page Not Found | Acxelin Quantum LLC</title>
         <meta name="description" content="The page you are looking for could not be found." />
       </Helmet>
 

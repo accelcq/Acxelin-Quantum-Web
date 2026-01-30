@@ -21,7 +21,7 @@ const CaseStudyQuantum = () => {
   return (
     <>
       <Helmet>
-        <title>Quantum Computing Case Study | AccelCQ Inc</title>
+        <title>Quantum Computing Case Study | Acxelin Quantum Inc</title>
         <meta name="description" content="Explore our Stock Price Prediction demo showcasing quantum computing capabilities for advanced financial modeling and forecasting." />
       </Helmet>
 

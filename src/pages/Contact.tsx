@@ -82,8 +82,8 @@ Regards
   return (
     <>
       <Helmet>
-        <title>Contact Us | AccelCQ LLC</title>
-        <meta name="description" content="Get in touch with AccelCQ for confidential computing and quantum computing solutions. Contact our team for consultations and inquiries." />
+        <title>Contact Us | Acxelin Quantum LLC</title>
+        <meta name="description" content="Get in touch with Acxelin Quantum for confidential computing and quantum computing solutions. Contact our team for consultations and inquiries." />
       </Helmet>
 
       {/* Modern Hero Section */}
@@ -127,7 +127,7 @@ Regards
                 Call Now
               </motion.a>
               <motion.a 
-                href="mailto:info@accelcq.com?subject=Inquiry%20from%20xxx%20for%20Confidential%2FQuantum%20computing%2FEnterprise%20Architecture&body=Hi%0A%0AMy%20Name%20is%20....%2C%20I%27m%20working%20as%20%5Bposition%5D%20in%20%5Bcompany%5D%2C%20my%20number%20is%20%2B1%28xxx%29-xxx-xxxx%20based%20out%20of%20xxxxxx%0A%0AI%20am%20inquiring%20about%20....%0A%0ARegards%0AYour%20name"
+                href="mailto:info@acxelinquantum.com?subject=Inquiry%20from%20xxx%20for%20Confidential%2FQuantum%20computing%2FEnterprise%20Architecture&body=Hi%0A%0AMy%20Name%20is%20....%2C%20I%27m%20working%20as%20%5Bposition%5D%20in%20%5Bcompany%5D%2C%20my%20number%20is%20%2B1%28xxx%29-xxx-xxxx%20based%20out%20of%20xxxxxx%0A%0AI%20am%20inquiring%20about%20....%0A%0ARegards%0AYour%20name"
                 variants={fadeIn}
                 className="group flex items-center px-8 py-4 bg-gradient-to-r from-accent-500 to-accent-600 text-white rounded-full font-semibold hover:from-accent-600 hover:to-accent-700 transition-all duration-300 transform hover:scale-105 shadow-xl"
               >
@@ -170,9 +170,9 @@ Regards
               {
                 icon: <Mail size={28} />,
                 title: "Email Us",
-                value: "info@accelcq.com",
+                value: "info@acxelinquantum.com",
                 subtitle: "We'll respond within 24h",
-                href: "mailto:info@accelcq.com?subject=Inquiry%20from%20xxx%20for%20Confidential%2FQuantum%20computing%2FEnterprise%20Architecture&body=Hi%0A%0AMy%20Name%20is%20....%2C%20I%27m%20working%20as%20%5Bposition%5D%20in%20%5Bcompany%5D%2C%20my%20number%20is%20%2B1%28xxx%29-xxx-xxxx%20based%20out%20of%20xxxxxx%0A%0AI%20am%20inquiring%20about%20....%0A%0ARegards%0AYour%20name",
+                href: "mailto:info@acxelinquantum.com?subject=Inquiry%20from%20xxx%20for%20Confidential%2FQuantum%20computing%2FEnterprise%20Architecture&body=Hi%0A%0AMy%20Name%20is%20....%2C%20I%27m%20working%20as%20%5Bposition%5D%20in%20%5Bcompany%5D%2C%20my%20number%20is%20%2B1%28xxx%29-xxx-xxxx%20based%20out%20of%20xxxxxx%0A%0AI%20am%20inquiring%20about%20....%0A%0ARegards%0AYour%20name",
                 gradient: "from-emerald-500 to-emerald-600",
                 bgGradient: "from-emerald-50 to-emerald-100"
               },
@@ -320,7 +320,7 @@ Regards
                 allowFullScreen 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
-                title="AccelCQ LLC Office Location"
+                title="Acxelin Quantum LLC Office Location"
                   className="w-full h-96 md:h-[500px]"
               ></iframe>
               </div>
@@ -338,7 +338,7 @@ Regards
                     <MapPin size={20} className="text-white" />
                   </div>
                   <div>
-                                         <h3 className="font-semibold text-gray-900 mb-1">AccelCQ LLC</h3>
+                                         <h3 className="font-semibold text-gray-900 mb-1">Acxelin Quantum LLC</h3>
                     <address className="not-italic text-gray-600 text-sm leading-relaxed">
                       691 S Milpitas Boulevard, Ste 217<br />
                       Milpitas, California 95035<br />
@@ -376,7 +376,7 @@ Regards
                <span className="text-gray-300">Trusted by</span> <span className="text-transparent bg-clip-text bg-gradient-to-r from-accent-300 to-secondary-300">Industry Leaders</span>
              </h2>
             <p className="text-gray-300 text-lg mb-12 max-w-3xl mx-auto">
-              Join the growing number of organizations transforming their computing capabilities with AccelCQ.
+              Join the growing number of organizations transforming their computing capabilities with Acxelin Quantum.
             </p>
             
             {/* Stats */}

@@ -84,7 +84,7 @@ const ContactForm: React.FC<ContactFormProps> = (props) => {
           subject: formData.subject,
           message: formData.message,
           timestamp: new Date().toISOString(),
-          source: 'AccelCQ Website Contact Form'
+          source: 'Acxelin Quantum Website Contact Form'
         }),
       });
       
@@ -114,7 +114,7 @@ const ContactForm: React.FC<ContactFormProps> = (props) => {
       console.error('Error sending form data:', error);
       setFormStatus({
         type: 'error',
-        message: 'Sorry, there was an error sending your message. Please try again or contact us directly at info@accelcq.com.',
+        message: 'Sorry, there was an error sending your message. Please try again or contact us directly at info@acxelinquantum.com.',
       });
       
       // Reset error message after 8 seconds

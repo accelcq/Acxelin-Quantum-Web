@@ -47,8 +47,8 @@ const Services = () => {
   return (
     <>
       <Helmet>
-        <title>Services | AccelCQ Inc</title>
-        <meta name="description" content="Explore AccelCQ's comprehensive services including confidential computing, quantum computing, and enterprise architecture solutions." />
+        <title>Services | Acxelin Quantum LLC</title>
+        <meta name="description" content="Explore Acxelin Quantum's comprehensive services including confidential computing, quantum computing, and enterprise architecture solutions." />
       </Helmet>
 
       <PageHeader 
@@ -116,7 +116,7 @@ const Services = () => {
         </div>
       </section>
 
-      {/* Why Choose AccelCQ Section */}
+      {/* Why Choose Acxelin Quantum Section */}
       <section className="section bg-gray-50">
         <div className="container-custom">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
@@ -128,10 +128,10 @@ const Services = () => {
               transition={{ duration: 0.8 }}
             >
               <h2 className="text-3xl md:text-4xl font-bold mb-6">
-                Why Choose AccelCQ
+                Why Choose Acxelin Quantum
               </h2>
               <p className="text-gray-600 mb-4 text-lg">
-                AccelCQ combines deep technical expertise with proven implementation experience to deliver secure, high-performance computing solutions that drive real business value.
+                Acxelin Quantum combines deep technical expertise with proven implementation experience to deliver secure, high-performance computing solutions that drive real business value.
               </p>
               <p className="text-gray-600 mb-6">
                 Our comprehensive approach ensures that every solution is tailored to your specific requirements, from initial consultation through deployment and ongoing support.
@@ -164,7 +164,7 @@ const Services = () => {
             >
               <img 
                 src="https://images.pexels.com/photos/3183153/pexels-photo-3183153.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-                alt="AccelCQ Team Collaboration" 
+                alt="Acxelin Quantum Team Collaboration" 
                 className="w-full h-auto" 
               />
             </motion.div>

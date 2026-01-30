@@ -62,14 +62,14 @@ const blogPosts = [
       
       <p>Confidential computing is moving from an emerging technology to a foundational element of modern security architectures. Organizations that adopt these technologies early will be better positioned to protect sensitive data while enabling new collaborative opportunities and business models.</p>
       
-      <p>At AccelCQ, we're committed to helping organizations navigate this evolving landscape and implement confidential computing solutions that address their specific security and compliance requirements.</p>
+      <p>At Acxelin Quantum, we're committed to helping organizations navigate this evolving landscape and implement confidential computing solutions that address their specific security and compliance requirements.</p>
     `,
     date: "April 15, 2025",
     image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     author: {
       name: "Dr. Elena Rodriguez",
       avatar: "https://images.pexels.com/photos/3796217/pexels-photo-3796217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "CEO & Co-Founder of AccelCQ with a PhD in Quantum Physics from MIT and 15+ years of experience in secure computing technologies."
+      bio: "CEO & Co-Founder of Acxelin Quantum with a PhD in Quantum Physics from MIT and 15+ years of experience in secure computing technologies."
     },
     category: "Confidential Computing",
     slug: "future-of-confidential-computing",
@@ -141,14 +141,14 @@ const blogPosts = [
       
       <p>As quantum hardware continues to improve in terms of qubit count, coherence times, and error rates, we expect to see increasingly impressive results for practical optimization problems. Organizations that begin experimenting with quantum optimization now will be well-positioned to leverage these advances as they emerge.</p>
       
-      <p>At AccelCQ, we're helping clients identify optimization problems in their operations that are most amenable to quantum approaches and implementing hybrid quantum-classical solutions that deliver value even with today's quantum hardware limitations.</p>
+      <p>At Acxelin Quantum, we're helping clients identify optimization problems in their operations that are most amenable to quantum approaches and implementing hybrid quantum-classical solutions that deliver value even with today's quantum hardware limitations.</p>
     `,
     date: "April 2, 2025",
     image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     author: {
       name: "James Chen",
       avatar: "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "CTO & Co-Founder of AccelCQ, former Head of Cryptography at Google with expertise in secure enclaves and confidential computing."
+      bio: "CTO & Co-Founder of Acxelin Quantum, former Head of Cryptography at Google with expertise in secure enclaves and confidential computing."
     },
     category: "Quantum Computing",
     slug: "quantum-algorithms-optimization",
@@ -257,14 +257,14 @@ const blogPosts = [
       
       <p>Secure multi-party computation represents a paradigm shift in healthcare data collaboration. By enabling privacy-preserving data analysis, these technologies can accelerate medical research, improve patient outcomes, and advance our understanding of health and disease while maintaining the highest standards of patient privacy protection.</p>
       
-      <p>At AccelCQ, we're working with healthcare institutions to implement these technologies and unlock the value of healthcare data for the benefit of patients worldwide.</p>
+      <p>At Acxelin Quantum, we're working with healthcare institutions to implement these technologies and unlock the value of healthcare data for the benefit of patients worldwide.</p>
     `,
     date: "March 20, 2025",
     image: "https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     author: {
       name: "Sarah Johnson",
       avatar: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "Healthcare Technology Director at AccelCQ with extensive experience in healthcare data privacy and regulatory compliance."
+      bio: "Healthcare Technology Director at Acxelin Quantum with extensive experience in healthcare data privacy and regulatory compliance."
     },
     category: "Healthcare",
     slug: "secure-computation-healthcare",
@@ -399,14 +399,14 @@ const blogPosts = [
       
       <p>Post-quantum cryptography is not just a future concern—it's a present-day imperative. Organizations must begin their quantum-safe migration now to protect against current and future threats.</p>
       
-      <p>At AccelCQ, we're helping organizations assess their quantum vulnerability, develop migration strategies, and implement post-quantum cryptographic solutions that provide security in the quantum era while maintaining operational efficiency.</p>
+      <p>At Acxelin Quantum, we're helping organizations assess their quantum vulnerability, develop migration strategies, and implement post-quantum cryptographic solutions that provide security in the quantum era while maintaining operational efficiency.</p>
     `,
     date: "March 12, 2025",
     image: "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     author: {
       name: "Dr. Michael Williams",
       avatar: "https://images.pexels.com/photos/3785104/pexels-photo-3785104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "Chief Cryptographer at AccelCQ with a PhD in Mathematics and 20+ years of experience in cryptographic research and implementation."
+      bio: "Chief Cryptographer at Acxelin Quantum with a PhD in Mathematics and 20+ years of experience in cryptographic research and implementation."
     },
     category: "Cybersecurity",
     slug: "post-quantum-cryptography",
@@ -607,14 +607,14 @@ const blogPosts = [
       
       <p>As quantum hardware continues to improve and our theoretical understanding deepens, we can expect to see increasingly practical applications of quantum machine learning across various industries.</p>
       
-      <p>At AccelCQ, we're helping organizations explore the potential of quantum machine learning for their specific applications, developing hybrid quantum-classical solutions that can provide value even with today's quantum hardware limitations while preparing for the quantum advantages of tomorrow.</p>
+      <p>At Acxelin Quantum, we're helping organizations explore the potential of quantum machine learning for their specific applications, developing hybrid quantum-classical solutions that can provide value even with today's quantum hardware limitations while preparing for the quantum advantages of tomorrow.</p>
     `,
     date: "February 28, 2025",
     image: "https://images.pexels.com/photos/8386423/pexels-photo-8386423.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     author: {
       name: "James Chen",
       avatar: "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "CTO & Co-Founder of AccelCQ, former Head of Cryptography at Google with expertise in secure enclaves and confidential computing."
+      bio: "CTO & Co-Founder of Acxelin Quantum, former Head of Cryptography at Google with expertise in secure enclaves and confidential computing."
     },
     category: "Quantum Computing",
     slug: "quantum-machine-learning",
@@ -836,14 +836,14 @@ const blogPosts = [
       
       <p>As the technology matures and regulatory frameworks evolve, confidential computing will likely become a standard component of financial services infrastructure, enabling institutions to unlock the value of their data while maintaining the highest levels of security and privacy protection.</p>
       
-      <p>At AccelCQ, we specialize in helping financial institutions navigate the implementation of confidential computing solutions, from initial assessment through production deployment, ensuring that these powerful technologies deliver maximum value while meeting the unique requirements of the financial services sector.</p>
+      <p>At Acxelin Quantum, we specialize in helping financial institutions navigate the implementation of confidential computing solutions, from initial assessment through production deployment, ensuring that these powerful technologies deliver maximum value while meeting the unique requirements of the financial services sector.</p>
     `,
     date: "February 15, 2025",
     image: "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     author: {
       name: "Dr. Elena Rodriguez",
       avatar: "https://images.pexels.com/photos/3796217/pexels-photo-3796217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      bio: "CEO & Co-Founder of AccelCQ with a PhD in Quantum Physics from MIT and 15+ years of experience in secure computing technologies."
+      bio: "CEO & Co-Founder of Acxelin Quantum with a PhD in Quantum Physics from MIT and 15+ years of experience in secure computing technologies."
     },
     category: "Financial Services",
     slug: "confidential-computing-finance",
@@ -1031,7 +1031,7 @@ const blogPosts = [
     author: {
       name: "Priya Ranjan Kumar",
       avatar: "/1634105594218.jpeg",
-      bio: "Senior Enterprise Architect at AccelCQ with 15+ years of experience in TOGAF implementation and enterprise architecture design across Fortune 500 companies."
+      bio: "Senior Enterprise Architect at Acxelin Quantum with 15+ years of experience in TOGAF implementation and enterprise architecture design across Fortune 500 companies."
     },
     category: "Enterprise Architecture",
     slug: "togaf-adm-enterprise-architecture",
@@ -1122,7 +1122,7 @@ const BlogPost = () => {
   return (
     <>
       <Helmet>
-        <title>{post.title} | AccelCQ Inc Blog</title>
+        <title>{post.title} | Acxelin Quantum LLC Blog</title>
         <meta name="description" content={post.content.substring(0, 160).replace(/<[^>]*>/g, '')} />
       </Helmet>
 

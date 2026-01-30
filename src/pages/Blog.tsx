@@ -174,8 +174,8 @@ const Blog = () => {
   return (
     <>
       <Helmet>
-        <title>Blog | AccelCQ Inc</title>
-        <meta name="description" content="Stay updated with the latest insights, trends, and news in confidential computing and quantum computing from AccelCQ Inc." />
+        <title>Blog | Acxelin Quantum LLC</title>
+        <meta name="description" content="Stay updated with the latest insights, trends, and news in confidential computing and quantum computing from Acxelin Quantum LLC." />
       </Helmet>
 
       <PageHeader 

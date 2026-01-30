@@ -47,8 +47,8 @@ const CaseStudies = () => {
   return (
     <>
       <Helmet>
-        <title>Case Studies | AccelCQ Inc</title>
-        <meta name="description" content="Explore AccelCQ's case studies demonstrating real-world applications of confidential computing, quantum computing, and enterprise architecture." />
+        <title>Case Studies | Acxelin Quantum Inc</title>
+        <meta name="description" content="Explore Acxelin Quantum's case studies demonstrating real-world applications of confidential computing, quantum computing, and enterprise architecture." />
       </Helmet>
 
       <PageHeader 

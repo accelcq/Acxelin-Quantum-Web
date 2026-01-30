@@ -26,7 +26,7 @@ const FAQ = () => {
   const faqCategories = [
     {
       title: "Memory Encryption",
-      description: "Why choose AccelCQ for memory encryption? Learn about our expertise in hardware-backed encryption, compliance, and operational excellence.",
+      description: "Why choose Acxelin Quantum for memory encryption? Learn about our expertise in hardware-backed encryption, compliance, and operational excellence.",
       icon: <Shield size={48} />,
       link: "/faq/memory-encryption",
       color: "bg-blue-50 text-blue-600",
@@ -41,7 +41,7 @@ const FAQ = () => {
     },
     {
       title: "Trusted Execution Environments",
-      description: "Discover why AccelCQ is your ideal partner for TEE implementation, security, and ongoing management across cloud and on-premises environments.",
+      description: "Discover why Acxelin Quantum is your ideal partner for TEE implementation, security, and ongoing management across cloud and on-premises environments.",
       icon: <Server size={48} />,
       link: "/faq/trusted-execution-environments", 
       color: "bg-green-50 text-green-600",
@@ -56,7 +56,7 @@ const FAQ = () => {
     },
     {
       title: "Quantum Algorithm Development",
-      description: "Learn why AccelCQ excels in quantum algorithm development, optimization, and implementation for various industry applications.",
+      description: "Learn why Acxelin Quantum excels in quantum algorithm development, optimization, and implementation for various industry applications.",
       icon: <Cpu size={48} />,
       link: "/faq/quantum-algorithms",
       color: "bg-purple-50 text-purple-600", 
@@ -74,8 +74,8 @@ const FAQ = () => {
   // General FAQ Questions
   const generalFAQs = [
     {
-      question: "What services does AccelCQ provide?",
-      answer: "AccelCQ specializes in confidential computing, quantum computing, and enterprise architecture solutions. We provide end-to-end services including secure cloud infrastructure, memory encryption, trusted execution environments, quantum algorithm development, and TOGAF-based enterprise architecture consulting."
+      question: "What services does Acxelin Quantum provide?",
+      answer: "Acxelin Quantum specializes in confidential computing, quantum computing, and enterprise architecture solutions. We provide end-to-end services including secure cloud infrastructure, memory encryption, trusted execution environments, quantum algorithm development, and TOGAF-based enterprise architecture consulting."
     },
     {
       question: "What industries do you serve?",
@@ -86,7 +86,7 @@ const FAQ = () => {
       answer: "Yes, we provide solutions for both cloud environments (AWS, Azure, Google Cloud, IBM Cloud) and on-premises infrastructure, as well as hybrid deployments that combine both approaches."
     },
     {
-      question: "How do I get started with AccelCQ?",
+      question: "How do I get started with Acxelin Quantum?",
       answer: "Contact us through our website to schedule a consultation. We'll assess your specific needs, discuss your security requirements, and recommend the best approach for your organization."
     }
   ];
@@ -94,8 +94,8 @@ const FAQ = () => {
   return (
     <>
       <Helmet>
-        <title>FAQs | AccelCQ Inc</title>
-        <meta name="description" content="Frequently asked questions about AccelCQ's confidential computing, quantum computing, and enterprise architecture services. Find answers to common questions about our expertise and solutions." />
+        <title>FAQs | Acxelin Quantum Inc</title>
+        <meta name="description" content="Frequently asked questions about Acxelin Quantum's confidential computing, quantum computing, and enterprise architecture services. Find answers to common questions about our expertise and solutions." />
       </Helmet>
 
       <PageHeader 
@@ -166,7 +166,7 @@ const FAQ = () => {
         <div className="container-custom">
           <SectionHeading
             title="General Questions"
-            subtitle="Common questions about AccelCQ and our services"
+            subtitle="Common questions about Acxelin Quantum and our services"
           />
           
           <div className="max-w-4xl mx-auto">

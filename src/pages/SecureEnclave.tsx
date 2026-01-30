@@ -91,7 +91,7 @@ const SecureEnclave = () => {
         <div className="container-custom">
           <div className="max-w-4xl mx-auto text-center">
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
-              AccelCQ empowers enterprises to adopt next-generation security with advanced Secure Enclave solutions, 
+              Acxelin Quantum empowers enterprises to adopt next-generation security with advanced Secure Enclave solutions, 
               leveraging the best of cloud providers like Microsoft Azure, AWS, Google Cloud, IBM, and more. Our offerings 
               ensure your sensitive data, AI models, and workloads remain private, protected, and compliant—no matter where they run.
             </p>
@@ -124,11 +124,11 @@ const SecureEnclave = () => {
         </div>
       </section>
 
-      {/* AccelCQ's Services */}
+      {/* Acxelin Quantum's Services */}
       <section className="py-16 bg-white">
         <div className="container-custom">
           <SectionHeading
-            title="AccelCQ's Secure Enclave Services"
+            title="Acxelin Quantum's Secure Enclave Services"
             subtitle="Comprehensive solutions from assessment to production deployment"
             alignment="center"
           />
@@ -177,11 +177,11 @@ const SecureEnclave = () => {
         </div>
       </section>
 
-      {/* Why Choose AccelCQ */}
+      {/* Why Choose Acxelin Quantum */}
       <section className="py-16 bg-white">
         <div className="container-custom">
           <SectionHeading
-            title="Why Choose AccelCQ?"
+            title="Why Choose Acxelin Quantum?"
             subtitle="Your trusted partner for secure enclave solutions"
             alignment="center"
           />
@@ -205,10 +205,10 @@ const SecureEnclave = () => {
             Confidential Computing is not the future—it's now.
           </h2>
           <p className="text-xl mb-8 text-primary-100 max-w-2xl mx-auto">
-            Partner with AccelCQ to secure your most valuable data, accelerate innovation, and lead in your industry.
+            Partner with Acxelin Quantum to secure your most valuable data, accelerate innovation, and lead in your industry.
           </p>
           <p className="text-lg mb-8 text-primary-100">
-            Ready to transform your security posture? Contact AccelCQ for a consultation today.
+            Ready to transform your security posture? Contact Acxelin Quantum for a consultation today.
           </p>
           <a
             href="/contact"

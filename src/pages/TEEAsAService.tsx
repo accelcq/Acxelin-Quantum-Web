@@ -48,27 +48,27 @@ const TEEAsAService = () => {
   const useCases = [
     {
       title: 'Healthcare: Secure Medical Data Analytics',
-      description: 'A major hospital system must analyze patient records for research while meeting HIPAA compliance. AccelCQ deploys TEEs in Azure Confidential VMs, enabling privacy-preserving analytics—ensuring sensitive data never leaves the secure enclave, even in the cloud.',
+      description: 'A major hospital system must analyze patient records for research while meeting HIPAA compliance. Acxelin Quantum deploys TEEs in Azure Confidential VMs, enabling privacy-preserving analytics—ensuring sensitive data never leaves the secure enclave, even in the cloud.',
       image: '/image.png'
     },
     {
       title: 'Finance: Confidential Multi-Party Computation',
-      description: 'Banks need to collaboratively detect fraud trends without revealing individual client data. Using AccelCQ\'s TEE-as-a-Service, banks run joint machine learning models in AWS Nitro Enclaves—securing data confidentiality and meeting strict regulatory standards.',
+      description: 'Banks need to collaboratively detect fraud trends without revealing individual client data. Using Acxelin Quantum\'s TEE-as-a-Service, banks run joint machine learning models in AWS Nitro Enclaves—securing data confidentiality and meeting strict regulatory standards.',
       image: '/2. Finance Confidential Multi-Party Computation.png'
     },
     {
       title: 'Biotech: Protecting Intellectual Property',
-      description: 'A biotech startup develops proprietary drug discovery algorithms. With AccelCQ, their code and sensitive research data are run inside Google Confidential VMs, protected from both external and internal threats, and ensuring IP security during global cloud collaborations.',
+      description: 'A biotech startup develops proprietary drug discovery algorithms. With Acxelin Quantum, their code and sensitive research data are run inside Google Confidential VMs, protected from both external and internal threats, and ensuring IP security during global cloud collaborations.',
       image: '/3. Biotech Protecting Intellectual Property.png'
     },
     {
       title: 'Government: In-House Data Residency & Ultra-Secure Processing',
-      description: 'A government agency with national security requirements cannot use public cloud. AccelCQ architects and manages TEEs on-premises using Intel SGX, delivering maximum data residency control and security—even at higher complexity and cost.',
+      description: 'A government agency with national security requirements cannot use public cloud. Acxelin Quantum architects and manages TEEs on-premises using Intel SGX, delivering maximum data residency control and security—even at higher complexity and cost.',
       image: '/4. Government In-House Data Residency & Ultra-Secure Processing.png'
     }
   ];
 
-  // Why choose AccelCQ
+  // Why choose Acxelin Quantum
   const whyChooseUs = [
     'Cross-Platform Expertise across Intel SGX, AMD SEV, and ARM TrustZone',
     'Accelerated Deployment with proven methodologies and frameworks',
@@ -119,8 +119,8 @@ const TEEAsAService = () => {
   return (
     <>
       <Helmet>
-        <title>TEE-as-a-Service | AccelCQ Inc</title>
-        <meta name="description" content="Protect your most sensitive applications and data with AccelCQ's industry-leading TEE solutions—built for the cloud, optimized for compliance, and managed for your peace of mind." />
+        <title>TEE-as-a-Service | Acxelin Quantum Inc</title>
+        <meta name="description" content="Protect your most sensitive applications and data with Acxelin Quantum's industry-leading TEE solutions—built for the cloud, optimized for compliance, and managed for your peace of mind." />
       </Helmet>
 
       <PageHeader 
@@ -151,7 +151,7 @@ const TEEAsAService = () => {
                 With TEEs, your workloads are protected from unauthorized access, including from cloud providers, insiders, and advanced attackers. This hardware-based security ensures that your most sensitive data remains protected throughout its entire lifecycle.
               </p>
               <p className="text-gray-600 mb-6">
-                At AccelCQ, we provide comprehensive TEE-as-a-Service solutions that enable organizations to harness the power of trusted execution environments without the complexity of implementation and management.
+                At Acxelin Quantum, we provide comprehensive TEE-as-a-Service solutions that enable organizations to harness the power of trusted execution environments without the complexity of implementation and management.
               </p>
             </motion.div>
             
@@ -274,7 +274,7 @@ const TEEAsAService = () => {
       <section className="section">
         <div className="container-custom">
           <SectionHeading
-            title="AccelCQ TEE-as-a-Service: What We Offer"
+            title="Acxelin Quantum TEE-as-a-Service: What We Offer"
             subtitle="Comprehensive TEE solutions tailored to your organization's needs"
           />
           
@@ -303,7 +303,7 @@ const TEEAsAService = () => {
         <div className="container-custom">
           <SectionHeading
             title="Use Case Spotlights"
-            subtitle="See how AccelCQ's TEE-as-a-Service transforms security across industries"
+            subtitle="See how Acxelin Quantum's TEE-as-a-Service transforms security across industries"
           />
           
           <div className="space-y-16">
@@ -410,7 +410,7 @@ const TEEAsAService = () => {
         </div>
       </section>
 
-      {/* Why Choose AccelCQ Section */}
+      {/* Why Choose Acxelin Quantum Section */}
       <section className="section">
         <div className="container-custom">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
@@ -424,7 +424,7 @@ const TEEAsAService = () => {
             >
               <img 
                 src="https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-                alt="Why Choose AccelCQ" 
+                alt="Why Choose Acxelin Quantum" 
                 className="w-full h-auto" 
               />
             </motion.div>
@@ -436,7 +436,7 @@ const TEEAsAService = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.8, delay: 0.2 }}
             >
-              <h2 className="text-3xl md:text-4xl font-bold mb-6">Why Choose AccelCQ for TEE?</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6">Why Choose Acxelin Quantum for TEE?</h2>
               <div className="space-y-4">
                 {whyChooseUs.map((benefit, index) => (
                   <div key={index} className="flex items-start">
@@ -462,7 +462,7 @@ const TEEAsAService = () => {
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to Deploy, Secure, and Scale with Confidence?</h2>
             <p className="text-gray-100 max-w-3xl mx-auto mb-8 text-lg">
-              Contact AccelCQ today to discover how our TEE-as-a-Service can protect your data and drive innovation.
+              Contact Acxelin Quantum today to discover how our TEE-as-a-Service can protect your data and drive innovation.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <motion.a 

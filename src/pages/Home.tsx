@@ -112,8 +112,8 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>AccelCQ Inc | Confidential & Quantum Computing Solutions</title>
-        <meta name="description" content="AccelCQ Inc provides cutting-edge confidential computing and quantum computing solutions for enterprises. Secure your data and accelerate your business." />
+        <title>Acxelin Quantum LLC | Confidential & Quantum Computing Solutions</title>
+        <meta name="description" content="Acxelin Quantum LLC provides cutting-edge confidential computing and quantum computing solutions for enterprises. Secure your data and accelerate your business." />
       </Helmet>
 
       {/* Hero Section */}
@@ -183,7 +183,7 @@ const Home = () => {
         <div className="container-custom">
           <SectionHeading
             title="Our Services"
-            subtitle="AccelCQ delivers next-generation confidential and quantum computing solutions that are production-ready today, transforming how enterprises secure and accelerate their most critical workloads."
+            subtitle="Acxelin Quantum delivers next-generation confidential and quantum computing solutions that are production-ready today, transforming how enterprises secure and accelerate their most critical workloads."
           />
 
           <motion.div 
@@ -212,12 +212,12 @@ const Home = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
             >
-              <span className="text-primary-600 font-semibold mb-2 block">About AccelCQ Inc</span>
+              <span className="text-primary-600 font-semibold mb-2 block">About Acxelin Quantum LLC</span>
               <h2 className="text-3xl md:text-4xl font-bold mb-6">
                 Pioneering the Future of Secure Computing
               </h2>
               <p className="text-gray-600 mb-4">
-                At AccelCQ Inc, we combine expertise in confidential computing and quantum technologies to provide cutting-edge solutions that address the most challenging computational problems while maintaining the highest security standards.
+                At Acxelin Quantum LLC, we combine expertise in confidential computing and quantum technologies to provide cutting-edge solutions that address the most challenging computational problems while maintaining the highest security standards.
               </p>
               <p className="text-gray-600 mb-6">
                 Our team of experts, with backgrounds from leading tech companies and research institutions, is dedicated to pushing the boundaries of what's possible in secure and high-performance computing.

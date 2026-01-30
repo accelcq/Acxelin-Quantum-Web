@@ -37,7 +37,7 @@ const CaseStudyConfidentialComputing = () => {
   return (
     <>
       <Helmet>
-        <title>Confidential Computing Case Study | AccelCQ Inc</title>
+        <title>Confidential Computing Case Study | Acxelin Quantum Inc</title>
         <meta name="description" content="Explore our Sentiment Analysis demo showcasing confidential computing capabilities for secure data processing in untrusted environments." />
       </Helmet>
 

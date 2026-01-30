@@ -45,7 +45,7 @@ const About = () => {
       bio: 'PhD in Quantum Physics from MIT with 15+ years of experience in secure computing technologies.',
       linkedin: 'https://linkedin.com',
       twitter: 'https://twitter.com',
-      email: 'elena@accelcq.com'
+      email: 'elena@acxelinquantum.com'
     },
     {
       name: 'James Chen',
@@ -54,7 +54,7 @@ const About = () => {
       bio: 'Former Head of Cryptography at Google with expertise in secure enclaves and confidential computing.',
       linkedin: 'https://linkedin.com',
       twitter: 'https://twitter.com',
-      email: 'james@accelcq.com'
+      email: 'james@acxelinquantum.com'
     },
     {
       name: 'Sarah Johnson',
@@ -62,7 +62,7 @@ const About = () => {
       image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       bio: 'Former VP of Operations at Oracle with experience scaling technology companies globally.',
       linkedin: 'https://linkedin.com',
-      email: 'sarah@accelcq.com'
+      email: 'sarah@acxelinquantum.com'
     },
     {
       name: 'Dr. Michael Williams',
@@ -71,7 +71,7 @@ const About = () => {
       bio: 'Leading expert in quantum algorithms with over 20 published research papers in the field.',
       linkedin: 'https://linkedin.com',
       twitter: 'https://twitter.com',
-      email: 'michael@accelcq.com'
+      email: 'michael@acxelinquantum.com'
     }
   ];
   */
@@ -79,12 +79,12 @@ const About = () => {
   return (
     <>
       <Helmet>
-        <title>About Us | AccelCQ LLC</title>
-        <meta name="description" content="Learn about AccelCQ LLC, our mission, values, and the team driving innovation in confidential and quantum computing." />
+        <title>About Us | Acxelin Quantum LLC</title>
+        <meta name="description" content="Learn about Acxelin Quantum LLC, our mission, values, and the team driving innovation in confidential and quantum computing." />
       </Helmet>
 
-      <PageHeader 
-        title="About AccelCQ LLC"
+      <PageHeader
+        title="About Acxelin Quantum LLC"
         subtitle="A team of experts dedicated to revolutionizing secure and quantum computing"
         backgroundImage="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       />
@@ -103,7 +103,7 @@ const About = () => {
             >
               <img 
                 src="https://images.pexels.com/photos/3861943/pexels-photo-3861943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-                alt="AccelCQ Mission" 
+                alt="Acxelin Quantum Mission" 
                 className="w-full h-auto" 
               />
             </motion.div>
@@ -117,10 +117,10 @@ const About = () => {
             >
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Our Mission</h2>
               <p className="text-gray-600 mb-6 text-lg">
-                At AccelCQ LLC, our mission is to revolutionize computing by seamlessly integrating confidential computing security with quantum computing power, enabling organizations to process their most sensitive data with unprecedented speed and security.
+                At Acxelin Quantum LLC, our mission is to revolutionize computing by seamlessly integrating confidential computing security with quantum computing power, enabling organizations to process their most sensitive data with unprecedented speed and security.
               </p>
               <p className="text-gray-600 mb-6">
-                Founded in 2021 by experts from leading technology companies and research institutions, AccelCQ was born from the recognition that as computing power advances, so too must the security protecting that data.
+                Founded in 2021 by experts from leading technology companies and research institutions, Acxelin Quantum was born from the recognition that as computing power advances, so too must the security protecting that data.
               </p>
               <p className="text-gray-600">
                 We envision a future where quantum computing capabilities are accessible to all organizations while maintaining the highest standards of data protection through confidential computing technologies.
@@ -177,7 +177,7 @@ const About = () => {
                 {
                   year: '2021',
                   title: 'Company Founded',
-                  description: 'AccelCQ LLC was founded by Dr. Elena Rodriguez and James Chen in Fremont, California.'
+                  description: 'Acxelin Quantum LLC was founded by Dr. Elena Rodriguez and James Chen in Fremont, California.'
                 },
                 {
                   year: '2022',
@@ -235,7 +235,7 @@ const About = () => {
         <div className="container-custom">
           <SectionHeading
             title="Our Leadership Team"
-            subtitle="Meet the experts driving innovation at AccelCQ LLC"
+            subtitle="Meet the experts driving innovation at Acxelin Quantum LLC"
           />
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
